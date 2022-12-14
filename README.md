@@ -22,6 +22,7 @@ The model achieved overall good training, testing and validation accuracy, model
 <img width="582" alt="Screenshot 2022-12-13 at 12 13 54 PM" src="https://user-images.githubusercontent.com/50315486/207566853-7ec07647-22f0-4bd9-93a1-332ffab28659.png">
 
 **Classification Report**
+
 <img width="485" alt="Screenshot 2022-12-13 at 12 14 06 PM" src="https://user-images.githubusercontent.com/50315486/207566961-ed61db5a-76c2-41e0-b3c4-5abe007ea1be.png">
 
 
